@@ -33,6 +33,8 @@ This payload executes automatically when the classroom page is viewed.
 
 • Phishing & Credential Theft
 
+
+
 🔧 Remediation
 
 • Implement strict input sanitization on HTML fields
