@@ -1,7 +1,7 @@
 # CVE-2025-63892
 👤 Discoverer
 
-Minhajul Taivin (OffenSive Security Researcher @ Red Team Bangladesh)
+Minhajul Taivin (Offensive Security Researcher @ Red Team Bangladesh)
 https://www.linkedin.com/in/minhajultaivin
 
 🚨 Security Advisory: Stored XSS Vulnerability in Student Grades Management System  
